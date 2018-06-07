@@ -11,6 +11,14 @@
         "README.md",
         "custom.ts",
 		"mbit.ts",
-		"robotbitnopixel.ts"
+		"robotbitnopixel.ts",
+		"shims.d.ts",
+        "enums.d.ts",
+        "ir.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "TransmitterIR.cpp",
+        "TransmitterIR.h"
     ]
 }
