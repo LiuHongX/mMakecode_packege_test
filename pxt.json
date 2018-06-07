@@ -10,7 +10,5 @@
         "main.ts",
         "README.md",
         "custom.ts"
-		"mbit.ts",
-        "_locales/zh/mbit-strings.json"
     ]
 }
