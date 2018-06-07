@@ -10,6 +10,7 @@
         "main.ts",
         "README.md",
         "custom.ts",
-		"mbit.ts"
+		"mbit.ts",
+		"robotbitnopixel.ts"
     ]
 }
