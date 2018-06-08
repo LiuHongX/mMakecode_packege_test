@@ -11,6 +11,7 @@
         "README.md",
         "custom.ts",
 	"mbit.ts",
+	"robotbitnopixel.ts",
 	"shims.d.ts",
         "enums.d.ts",
         "ir.cpp",
