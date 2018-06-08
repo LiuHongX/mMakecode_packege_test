@@ -6,6 +6,7 @@
     },
     "description": "",
     "files": [
+		"_locales/zh/mbit-strings.json",
         "main.blocks",
         "main.ts",
         "README.md",
