@@ -1,8 +1,7 @@
 {
     "name": "newSpace",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "description": "",
     "files": [
