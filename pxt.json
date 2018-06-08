@@ -6,20 +6,20 @@
     },
     "description": "",
     "files": [
-		"_locales/zh/mbit-strings.json",
         "main.blocks",
         "main.ts",
         "README.md",
         "custom.ts",
-		"mbit.ts",
-		"robotbitnopixel.ts",
-		"shims.d.ts",
+	"mbit.ts",
+	"robotbitnopixel.ts",
+	"shims.d.ts",
         "enums.d.ts",
         "ir.cpp",
         "ReceiverIR.cpp",
         "ReceiverIR.h",
         "RemoteIR.h",
         "TransmitterIR.cpp",
-        "TransmitterIR.h"
+        "TransmitterIR.h",
+	"_locales/zh/mbit-strings.json"
     ]
 }
