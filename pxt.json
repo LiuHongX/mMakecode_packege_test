@@ -6,7 +6,6 @@
     },
     "description": "",
     "files": [
-		"_locales/zh/mbit-strings.json",
         "main.blocks",
         "main.ts",
         "README.md",
@@ -20,6 +19,7 @@
         "ReceiverIR.h",
         "RemoteIR.h",
         "TransmitterIR.cpp",
-        "TransmitterIR.h"
+        "TransmitterIR.h",
+		"_locales/zh/newSpace-strings.json"
     ]
 }
